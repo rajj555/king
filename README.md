@@ -1,2 +1,2 @@
 # king
-king repo
+king repo telugu skill hub
